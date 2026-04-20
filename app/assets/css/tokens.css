@@ -1,0 +1,22 @@
+:root,
+.dark {
+  --background: 220 15% 8%;
+  --foreground: 0 0% 98%;
+  --card: 220 15% 11%;
+  --card-foreground: 0 0% 98%;
+  --muted: 220 12% 16%;
+  --muted-foreground: 220 10% 65%;
+  --border: 220 12% 18%;
+  --input: 220 12% 18%;
+  --primary: 14 85% 55%;
+  --primary-foreground: 0 0% 100%;
+  --accent: 220 12% 20%;
+  --accent-foreground: 0 0% 98%;
+  --radius: 0.75rem;
+}
+
+html,
+body {
+  background-color: hsl(var(--background));
+  color: hsl(var(--foreground));
+}
