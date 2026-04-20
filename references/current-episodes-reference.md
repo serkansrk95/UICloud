@@ -1,0 +1,11 @@
+# Current Episodes Reference
+
+Aşağıdaki snippet, kaldırılması istenen mevcut sol episodes bölümünü temsil eder.
+
+```html
+full object-cover" loading="lazy" src="https://cdn.myanimelist.net/images/voiceactors/1/85504.jpg"></div></div></div></div></section><section><div><div class="flex items-center justify-between mb-4"><h2 class="text-xl font-semibold text-foreground"> Bölümler <span class="text-muted-foreground font-normal"> (26) </span></h2><!----></div><div class="grid grid-cols-1 sm:grid-cols-2 gap-3"><a href="/demon-slayer-kimetsu-no-yaiba-izle-1-bolum" class="group flex items-center gap-4 p-3 rounded-lg bg-card hover:bg-accent/50 border border-border/50 hover:border-border transition-colors"><div class="shrink-0 size-12 rounded-lg bg-primary/10 flex items-center justify-center group-hover:bg-primary/20 transition-colors"><span class="text-lg font-bold text-primary">1</span></div><div class="flex-1 min-w-0"><div class="flex items-center gap-2 mb-1"><h3 class="font-medium text-foreground truncate">Demon Slayer (Kimetsu no Yaiba) 1. Bölüm İzle</h3><!----><!----></div><div class="flex items-center gap-1.5 text-xs text-muted-foreground"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide size-3 lucide-calendar-icon lucide-calendar size-3" aria-hidden="true"><path d="M8 2v4"></path><path d="M16 2v4"></path><rect width="18" height="18" x="3" y="4" rx="2"></rect><path d="M3 10h18"></path></svg><span>7 Nis 2019</span></div></div><div class="shrink-0 size-9 rounded-full bg-primary/10 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide size-4 text-primary fill-primary lucide-play-icon lucide-play size-4 text-primary fill-primary" aria-hidden="true"><path d="M5 5a2 2 0 0 1 3.008-1.728l11.997 6.998a2 2 0 0 1 .003 3.458l-12 7A2 2 0 0 1 5 19z"></path></svg></div></a><a href="/d
+```
+
+## Gözlem
+- Episodes şu an sol ana akışta ayrı bir section olarak duruyor
+- Bu section yeni düzende burada kalmamalı
